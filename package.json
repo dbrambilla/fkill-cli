@@ -42,10 +42,10 @@
 		"chalk": "^2.1.0",
 		"cli-truncate": "^1.0.0",
 		"esc-exit": "^1.0.0",
-		"fkill": "^5.2.0",
+		"fkill": "^7.0.0",
 		"inquirer": "^3.0.3",
 		"inquirer-autocomplete-prompt": "^0.12.1",
-		"meow": "^4.0.0",
+		"meow": "^10.0.0",
 		"num-sort": "^1.0.0",
 		"pid-from-port": "^1.1.1",
 		"ps-list": "^4.0.0"
